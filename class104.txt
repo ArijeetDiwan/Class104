@@ -1,0 +1,9 @@
+formula of mode :
+L = Lower limit Mode of modal class. 
+fm = Frequency of modal class.
+ f1 = Frequency of class preceding the modal class. 
+ f2= Frequency of class succeeding the modal class.
+...
+Mode Formula Calculator.
+Mode Formula =	L + (fm - f1) x h / (fm - f1) + (fm - f2)
+=	0 + (0 - 0) x 0 / (0 - 0) + (0 - 0)= 0
